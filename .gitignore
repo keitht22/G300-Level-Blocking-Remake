@@ -47,6 +47,8 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+/Users/tylerkeith/Documents/Fall 21/G300/First-Repo/G300-Level-Blocking-Remake/My project/Temp/
+
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -57,4 +59,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
