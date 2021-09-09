@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 471}
   m_MaxSize: {x: 14001, y: 14021}
   vertical: 0
-  controlID: 118
+  controlID: 279
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 471}
   m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 119
+  controlID: 280
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 16
+  controlID: 281
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 5cfbffff423b0000
+      m_ExpandedIDs: 5cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -338,9 +338,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -17.212679, y: 2.662811, z: -0.29293907}
+    m_Target: {x: -14.661032, y: -2.2383618, z: -7.3644533}
     speed: 2
-    m_Value: {x: -17.212679, y: 2.662811, z: -0.29293907}
+    m_Value: {x: -14.661032, y: -2.2383618, z: -7.3644533}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -387,9 +387,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.01974471, y: -0.6354537, z: 0.01613315, w: 0.7717699}
+    m_Target: {x: 0.09426664, y: -0.81146723, z: 0.13631868, w: 0.5604758}
     speed: 2
-    m_Value: {x: 0.019743918, y: -0.63542825, z: 0.016132504, w: 0.77173895}
+    m_Value: {x: 0.094262816, y: -0.8114343, z: 0.13631316, w: 0.5604531}
   m_Size:
     m_Target: 11.596169
     speed: 2
@@ -537,22 +537,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Invector-3rdPersonController_LITE/Prefabs
+    - Assets
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Invector-3rdPersonController_LITE/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/tylerkeith/Documents/Fall 21/G300/First-Repo/G300-Level-Blocking-Remake/My
+  m_LastProjectPath: /Users/tylerkeith/Documents/College/Fall 21/G300/First-Repo/G300-Level-Blocking-Remake/My
     project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 303f0000
-    m_LastClickedID: 16176
-    m_ExpandedIDs: 00000000943e00002a3f000000ca9a3b
+    m_SelectedIDs: 943e0000
+    m_LastClickedID: 16020
+    m_ExpandedIDs: 00000000943e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -580,7 +580,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000943e0000
+    m_ExpandedIDs: 00000000943e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -605,8 +605,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 163a0000
-    m_LastClickedInstanceID: 14870
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
@@ -721,7 +721,7 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: 14870
+  m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
   m_AssetGUID: 
   m_InstanceID: 0
